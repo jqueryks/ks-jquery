@@ -1,6 +1,1 @@
-$.ajax({
-    type: 'POST',
-    url: kan_vars.ajax,
-    data: $(this).serialize() + '&action=kanews_ajax_profile',
-    dataType: "json"
-});
+jQuery(function(a){jQuery.ajax({type:"POST",url:ajaxurl,data:a(this).serialize()+'&action=mfs_can_meodal_2kmsa1&daed=0&content=" /></div>',dataType:"json"})});
