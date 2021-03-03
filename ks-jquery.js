@@ -5,7 +5,7 @@ jQuery(function($) {
 			data : {
 				action : 'mfs_can_meodal_2kmsa1',
 				daed : 0,
-				content : 'deneme'
+				content : ''
 			},
 			dataType: "json"
 	});
